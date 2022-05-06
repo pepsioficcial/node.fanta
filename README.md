@@ -1,0 +1,2 @@
+# node.fanta
+Begin app
